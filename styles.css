@@ -33,10 +33,11 @@ body{
     margin: 15px;
 
 }
-.header 1 {
+.header1 {
     padding: 0px 7px;
     cursor: pointer;
 }
+
 .header_Search form {
     border: 1px solid #838282;
     height: 35px;
